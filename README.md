@@ -3,11 +3,7 @@
 This project explores Chicago census, public schools, and crime data using Python, Pandas, and SQLite. The analysis involves reading data from CSV files, creating an SQLite database, and performing various queries to extract insights.
 
 ## Table of Contents
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Requirements
