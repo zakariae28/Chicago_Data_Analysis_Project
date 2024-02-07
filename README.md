@@ -1,4 +1,5 @@
 # Chicago Data Analysis Project
+##Introduction
 
 Ce projet utilise Python avec les bibliothèques pandas et sqlite3 pour effectuer une analyse de données sur plusieurs ensembles de données liés à Chicago, notamment les données du recensement, les écoles publiques de Chicago et les données sur la criminalité à Chicago.
 # Données
